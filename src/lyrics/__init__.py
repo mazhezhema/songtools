@@ -8,5 +8,6 @@
 """
 
 from .summary_generator import SummaryGenerator, LyricFormat, LyricLine
+from .chorus_extractor import ChorusExtractor
 
-__all__ = ['SummaryGenerator', 'LyricFormat', 'LyricLine']
+__all__ = ['SummaryGenerator', 'LyricFormat', 'LyricLine', 'ChorusExtractor']

@@ -1,0 +1,7 @@
+# 歌曲列表文件
+# 格式: 文件路径,歌曲ID,歌曲名称
+examples/sample_deformed_lrc.txt,song_001,因为梦没有留下种子
+examples/sample_friend.lrc,song_002,朋友
+examples/sample_friend.krc,song_003,朋友(酷狗版)
+examples/sample_friend.txt,song_004,朋友(纯文本版)
+examples/sample_road_with_you.txt,song_005,一路上有你
